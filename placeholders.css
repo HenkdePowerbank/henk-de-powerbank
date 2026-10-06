@@ -1,0 +1,6 @@
+/* Only replacement logo assets. All original site styles and motion are unchanged. */
+.logo-placeholder{display:flex;align-items:center;justify-content:center;width:120px;height:52px;border:1px dashed currentColor;font:400 14px/1 Arial,sans-serif;letter-spacing:0;opacity:.65}
+.editorial-brand .logo-placeholder{width:110px;height:44px}
+.footer-wordmark .large-logo-placeholder{display:flex;align-items:center;justify-content:center;border:1px dashed currentColor;width:100%;height:4.3em;color:inherit;font-size:.22em;letter-spacing:0;font-weight:400;opacity:.55}
+@media(max-width:850px){.brand .logo-placeholder{width:106px;height:44px}}
+@media(max-width:360px){.brand .logo-placeholder{width:95px;height:39px}}
