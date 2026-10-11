@@ -12,6 +12,8 @@ Het formulier maakt een aanvraag die u kunt kopiëren of downloaden. Contactgege
 
 ## A/B-test aanspreekvorm
 
+Actief sinds 11 oktober 2026: openbare meetservice, uitsluitend voor de eigenaar toegankelijk dashboard. De bezoeker kiest of er gemeten mag worden; zonder toestemming blijft de u/uw-versie beschikbaar zonder meting.
+
 De standaardtekst gebruikt u/uw. De originele je/jouw-tekst blijft behouden in `copy-variants.js`. Voorbeelden: `?variant=u` en `?variant=je`; deze tellen niet mee in de meting. Vormgeving, placeholders en animaties zijn identiek.
 
 Na activering in `analytics-config.js` en meettoestemming deelt de centrale meetservice browsers willekeurig 50/50 in. De versie blijft via lokale opslag maximaal 30 dagen gelijk. Zonder toestemming werkt de gehele website met u/uw. Via Meetvoorkeuren kan de bezoeker toestemming intrekken.
